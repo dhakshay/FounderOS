@@ -1,4 +1,4 @@
-# Pulp-based ice cream and candy bars
+# Huggs: pulp-based ice candy bars
 
 Started 2026-11-24. Ice cream with real fruit pulp as the main flavour base.
 
@@ -39,10 +39,15 @@ Tubs move to phase 2. Candy bars need less equipment and money, and fruit pulp i
 - Quick commerce is a poor fit for Rs 20 bars (cold-chain cost per bar is high); try multi-packs of 6-10 later
 - A branded freezer given to a retailer costs Rs 20-30k each, so start with shops that already own one
 
+### Confirmed 2026-11-24
+- Brand: Huggs
+- Launch product: fruit and water-based candy bars only (milk bar later)
+- Flavours: mango plus other fruits (list to be fixed)
+
 ## Open questions
-1. Which "other" fruits (guava, custard apple, jackfruit, other)?
+1. Which other fruits (guava, custard apple, jackfruit, other)? Pick 3-4 for launch
 2. Do Instamart/Blinkit serve Vizianagaram, or only Visakhapatnam? (check the apps' serviceability)
-3. Own brand name and logo yet?
+3. Logo and label design; check Huggs trademark availability (IP India search)
 
 ## Starting recipe (per 10 kg mix, estimates, verify with trials and quotes)
 | Ingredient | kg | Rs/kg | Rs |
