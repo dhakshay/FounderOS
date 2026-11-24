@@ -5,11 +5,12 @@ Absolute dates only. `## Checklist` is rendered by the status line (`!` = waitin
 
 | Project | State | Folder | Waiting on |
 |---|---|---|---|
-| Pulp-based ice cream | Discovery (started 2026-11-24) | `docs/projects/pulp-icecream/` | Operator: pulp type, premises, milk source, online model |
+| Pulp-based ice cream | Discovery (started 2026-11-24) | `docs/projects/pulp-icecream/` | Operator: extra fruits, quick-commerce serviceability |
 
 ## Checklist
 - [x] Pulp ice cream: scoping answers received 2026-11-24
-- [ ] ! Pulp ice cream: confirm pulp type, premises, milk source, online model
+- [x] Pulp ice cream: pulp type, premises, milk source, channel confirmed 2026-11-24
+- [ ] ! Pulp ice cream: name the extra fruits; check quick-commerce serviceability in Vizianagaram
 - [ ] Pulp ice cream: choose 2-3 launch flavours and pulp sources
 - [ ] Pulp ice cream: costed recipe and unit economics
 - [ ] Pulp ice cream: licences and food-safety requirements
