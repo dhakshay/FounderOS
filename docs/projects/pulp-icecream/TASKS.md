@@ -1,4 +1,4 @@
-# Pulp-based ice cream
+# Pulp-based ice cream and candy bars
 
 Started 2026-11-24. Ice cream with real fruit pulp as the main flavour base.
 
@@ -11,6 +11,33 @@ Started 2026-11-24. Ice cream with real fruit pulp as the main flavour base.
 - Supply: mango and other pulps, about Rs 200/kg on average
 - Premises: available. No 3-phase power yet: use single-phase equipment first, apply to APEPDCL for 3-phase if needed
 - Milk, cream, powder: buy wherever cheapest
+
+## Phase 1 decision (operator, 2026-11-24): start with ice candy bars
+Tubs move to phase 2. Candy bars need less equipment and money, and fruit pulp is the natural base.
+
+### Product ideas
+- Fruit pulp candy (water-based): mango, guava, custard apple, jackfruit. About 25% pulp, 60-70 ml bar
+- Milk/cream candy bar (dairy): mango milk bar, kulfi-style bar. Higher price, higher cost
+
+### Equipment (estimates, get quotes)
+- Candy freezing tank with moulds (brine or glycol bath) and compressor: Rs 2-5 lakh for 500-1,500 bars/day
+- Mixing tank, stirrer, small pasteuriser or heating vessel: Rs 0.5-1.5 lakh
+- Deep freezers for storage: Rs 20-30k each, 2 to start
+- Sticks, wrappers/sealing machine: Rs 0.3-0.7 lakh
+- Fits the Rs 4-15 lakh budget with room for stock and licences
+
+### Unit economics, per 70 ml bar (estimates)
+- Pulp 17-20 g: about Rs 3.5-4; sugar, stabiliser, milk: about Rs 1.5-3
+- Stick, wrapper, carton: about Rs 1.5; power and labour: about Rs 1-1.5
+- Cost: about Rs 8 (fruit bar), about Rs 11-12 (milk bar)
+- MRP Rs 20, retailer margin about 30%, GST 18%: you receive about Rs 12 ex GST, so about Rs 4 contribution
+- Fixed cost about Rs 50,000/month: break-even about 12,500 bars/month (about 420/day)
+- Milk bar at MRP Rs 30 gives more per bar
+
+### Selling
+- Retailers with freezers: kirana shops, ice cream parlours, schools and colleges, wedding and event caterers
+- Quick commerce is a poor fit for Rs 20 bars (cold-chain cost per bar is high); try multi-packs of 6-10 later
+- A branded freezer given to a retailer costs Rs 20-30k each, so start with shops that already own one
 
 ## Open questions
 1. Which "other" fruits (guava, custard apple, jackfruit, other)?
